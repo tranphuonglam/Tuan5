@@ -1,0 +1,36 @@
+BTap phan B
+1.
+2.
+3. không ch?y
+4. v?i a =17 thì chuong trình có k?t qu? là 1717
+5. hàm :
+int min(int a, int b, int c, int d) {
+ int min = a;
+ if (b < min) min = b;
+ if (c < min) min = c;
+ if (d < min) min = d;
+ return min;
+}
+Là dúng.
+6. chuong trình báo l?i g?i hàm sai 
+7. D
+8. B
+9. B thieu dau ;
+10. B
+11.C
+12.B
+13.C
+14.C
+15.B
+16.B
+17. A
+18. B
+19. B
+20.C
+21. A
+22.C
+23.C
+24.B
+25.B
+26.D
+
